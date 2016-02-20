@@ -1,2 +1,2 @@
-# 02_Odd_or_Even
+#Python_Practice_Problem
 Practice Problem
